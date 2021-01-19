@@ -359,6 +359,16 @@ body {
 }
 .contacts-social-link-item {
   margin-right: 8px;
+  background-color: #fff;
+  padding: 10px 0;
+  width: 45px;
+  text-align: center;
+  display: inline-block;
+  border-radius: 100px;
+}
+.fab {
+  color: #445162;
+  font-size: 24px;
 }
 .footer {
   padding: 25px calc(50% - 1272px / 2) 19px;
