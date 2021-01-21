@@ -8,7 +8,11 @@ body {
 }
 
 .product {
-  background: #445161;
+  /* background: #445161; */
+  background-image: url(../img/water-lily-1592793_960_720.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: bottom left;
   color: white;
   display: flex;
   justify-content: space-between;
